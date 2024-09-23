@@ -1,0 +1,10 @@
+mysql.connector
+datetime
+threading
+tkinter as tk
+ctypes
+win32gui
+signal
+sys
+logging
+cv2
