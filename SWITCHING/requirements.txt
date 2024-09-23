@@ -1,7 +1,7 @@
 mysql.connector
 datetime
 threading
-tkinter as tk
+tkinter 
 ctypes
 win32gui
 signal
